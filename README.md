@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @aset666
-- 👀 I’m interested
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me dont reach me
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in machine learning, algorithms, backend development, and software engineering
+- 🌱 I’m currently learning Python deeply, algorithms, and databases
+- 💻 This summer, I’m working on real-world projects in Python and ML to strengthen my skills
+- 🤝 I’m open to collaborating on Python, ML
+- 📫 How to reach me: aset666@example.com (or leave it as “don't reach me” if you prefer privacy)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I started with ML before mastering Python – now I’m leveling up both together!
 
-<!---
-aset666/aset666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
